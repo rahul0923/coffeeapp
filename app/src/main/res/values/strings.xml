@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoffeeSip</string>
+    <string name="name_hint">Name</string>
+    <string name="toppings_label">Toppings</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="choice_whip">Whipped cream</string>
+    <string name="choice_choco">Chocolate</string>
+    <string name="order_label">Order</string>
+</resources>
